@@ -6,3 +6,5 @@ Snoppy
 Mickey Mouse
 Mikes the cat
 birdeye
+Sharky
+Flipper
